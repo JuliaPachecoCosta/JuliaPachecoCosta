@@ -12,6 +12,7 @@ Meu nome é **Julia Pacheco Costa** e sou estudante de **Desenvolvimento de Sist
 
 Foi nesse processo que descobri um grande interesse pela área de **Dados**, percebendo como a análise, organização e interpretação de informações podem gerar soluções estratégicas e impactar a tomada de decisões.
 ​
+
 ---
 
 ## ​👩‍💻​ O que estou aprendendo
