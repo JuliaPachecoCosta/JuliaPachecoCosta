@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=EC4899&text=Julia%20Pacheco%20Costa&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas%20|%20Futura%20Profissional%20da%20%C3%81rea%20de%20Dados&descAlignY=58&descSize=18"/>
 
 </div>
