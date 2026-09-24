@@ -1,6 +1,6 @@
 name: 🐍 GitHub Contribution Snake
 
-on:
+"on":
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
