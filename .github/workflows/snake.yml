@@ -1,9 +1,9 @@
 name: 🐍 GitHub Contribution Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -19,6 +19,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?color_snake=#EC4899&color_dots=#FCE7F3,#F9A8D4,#F472B6,#EC4899,#BE185D
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 📤 Publicar animação
         uses: crazy-max/ghaction-github-pages@v3.1.0
