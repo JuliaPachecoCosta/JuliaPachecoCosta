@@ -56,7 +56,7 @@ Foi nesse processo que descobri um grande interesse pela área de **Dados**, per
 ## 🐍 Minhas contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JuliaPachecoCosta/JuliaPachecoCosta/output/github-snake.svg" alt="Snake animation" />
 </p>
 
 ---
